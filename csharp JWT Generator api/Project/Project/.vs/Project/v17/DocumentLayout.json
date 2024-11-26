@@ -1,0 +1,200 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Stanislav\\Desktop\\csharp JWT Generator api\\Project\\Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3AEF13DD-018C-415E-803F-34B9506BA881}|Project\\Project.csproj|c:\\users\\stanislav\\desktop\\csharp jwt generator api\\project\\project\\project\\controllers\\xmlreceivercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AEF13DD-018C-415E-803F-34B9506BA881}|Project\\Project.csproj|solutionrelative:project\\controllers\\xmlreceivercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AEF13DD-018C-415E-803F-34B9506BA881}|Project\\Project.csproj|c:\\users\\stanislav\\desktop\\csharp jwt generator api\\project\\project\\project\\models\\xelementmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AEF13DD-018C-415E-803F-34B9506BA881}|Project\\Project.csproj|solutionrelative:project\\models\\xelementmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AEF13DD-018C-415E-803F-34B9506BA881}|Project\\Project.csproj|C:\\Users\\Stanislav\\Desktop\\csharp JWT Generator api\\Project\\Project\\project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AEF13DD-018C-415E-803F-34B9506BA881}|Project\\Project.csproj|solutionrelative:project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AEF13DD-018C-415E-803F-34B9506BA881}|Project\\Project.csproj|c:\\users\\stanislav\\desktop\\csharp jwt generator api\\project\\project\\project\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AEF13DD-018C-415E-803F-34B9506BA881}|Project\\Project.csproj|solutionrelative:project\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AEF13DD-018C-415E-803F-34B9506BA881}|Project\\Project.csproj|C:\\Users\\Stanislav\\Desktop\\csharp JWT Generator api\\Project\\Project\\project\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AEF13DD-018C-415E-803F-34B9506BA881}|Project\\Project.csproj|solutionrelative:project\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AEF13DD-018C-415E-803F-34B9506BA881}|Project\\Project.csproj|C:\\Users\\Stanislav\\Desktop\\csharp JWT Generator api\\Project\\Project\\project\\data\\projectcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AEF13DD-018C-415E-803F-34B9506BA881}|Project\\Project.csproj|solutionrelative:project\\data\\projectcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AEF13DD-018C-415E-803F-34B9506BA881}|Project\\Project.csproj|C:\\Users\\Stanislav\\Desktop\\csharp JWT Generator api\\Project\\Project\\project\\auth\\tokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AEF13DD-018C-415E-803F-34B9506BA881}|Project\\Project.csproj|solutionrelative:project\\auth\\tokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AEF13DD-018C-415E-803F-34B9506BA881}|Project\\Project.csproj|C:\\Users\\Stanislav\\Desktop\\csharp JWT Generator api\\Project\\Project\\project\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AEF13DD-018C-415E-803F-34B9506BA881}|Project\\Project.csproj|solutionrelative:project\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AEF13DD-018C-415E-803F-34B9506BA881}|Project\\Project.csproj|C:\\Users\\Stanislav\\Desktop\\csharp JWT Generator api\\Project\\Project\\project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3AEF13DD-018C-415E-803F-34B9506BA881}|Project\\Project.csproj|solutionrelative:project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AEF13DD-018C-415E-803F-34B9506BA881}|Project\\Project.csproj|C:\\Users\\Stanislav\\Desktop\\csharp JWT Generator api\\Project\\Project\\project\\projectcontext-63008319-b37d-43c9-ad1e-11cb93d949aa.db||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3AEF13DD-018C-415E-803F-34B9506BA881}|Project\\Project.csproj|solutionrelative:project\\projectcontext-63008319-b37d-43c9-ad1e-11cb93d949aa.db||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "XElementModel.cs",
+              "DocumentMoniker": "C:\\Users\\Stanislav\\Desktop\\csharp JWT Generator api\\Project\\Project\\Project\\Models\\XElementModel.cs",
+              "RelativeDocumentMoniker": "Project\\Models\\XElementModel.cs",
+              "ToolTip": "C:\\Users\\Stanislav\\Desktop\\csharp JWT Generator api\\Project\\Project\\Project\\Models\\XElementModel.cs",
+              "RelativeToolTip": "Project\\Models\\XElementModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T18:59:20.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "XMLReceiverController.cs",
+              "DocumentMoniker": "C:\\Users\\Stanislav\\Desktop\\csharp JWT Generator api\\Project\\Project\\Project\\Controllers\\XMLReceiverController.cs",
+              "RelativeDocumentMoniker": "Project\\Controllers\\XMLReceiverController.cs",
+              "ToolTip": "C:\\Users\\Stanislav\\Desktop\\csharp JWT Generator api\\Project\\Project\\Project\\Controllers\\XMLReceiverController.cs",
+              "RelativeToolTip": "Project\\Controllers\\XMLReceiverController.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAcwEgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T16:14:28.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Stanislav\\Desktop\\csharp JWT Generator api\\Project\\Project\\Project\\Program.cs",
+              "RelativeDocumentMoniker": "Project\\Program.cs",
+              "ToolTip": "C:\\Users\\Stanislav\\Desktop\\csharp JWT Generator api\\Project\\Project\\Project\\Program.cs",
+              "RelativeToolTip": "Project\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T20:37:56.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Stanislav\\Desktop\\csharp JWT Generator api\\Project\\Project\\Project\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Project\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Stanislav\\Desktop\\csharp JWT Generator api\\Project\\Project\\Project\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Project\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T20:34:36.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TokenGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\Stanislav\\Desktop\\csharp JWT Generator api\\Project\\Project\\Project\\Auth\\TokenGenerator.cs",
+              "RelativeDocumentMoniker": "Project\\Auth\\TokenGenerator.cs",
+              "ToolTip": "C:\\Users\\Stanislav\\Desktop\\csharp JWT Generator api\\Project\\Project\\Project\\Auth\\TokenGenerator.cs",
+              "RelativeToolTip": "Project\\Auth\\TokenGenerator.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T19:50:58.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProjectContext.cs",
+              "DocumentMoniker": "C:\\Users\\Stanislav\\Desktop\\csharp JWT Generator api\\Project\\Project\\Project\\Data\\ProjectContext.cs",
+              "RelativeDocumentMoniker": "Project\\Data\\ProjectContext.cs",
+              "ToolTip": "C:\\Users\\Stanislav\\Desktop\\csharp JWT Generator api\\Project\\Project\\Project\\Data\\ProjectContext.cs",
+              "RelativeToolTip": "Project\\Data\\ProjectContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T17:53:54.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Stanislav\\Desktop\\csharp JWT Generator api\\Project\\Project\\Project\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Project\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Stanislav\\Desktop\\csharp JWT Generator api\\Project\\Project\\Project\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Project\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T17:53:02.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Stanislav\\Desktop\\csharp JWT Generator api\\Project\\Project\\Project\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Project\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Stanislav\\Desktop\\csharp JWT Generator api\\Project\\Project\\Project\\Models\\User.cs",
+              "RelativeToolTip": "Project\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T17:51:40.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProjectContext-63008319-b37d-43c9-ad1e-11cb93d949aa.db",
+              "DocumentMoniker": "C:\\Users\\Stanislav\\Desktop\\csharp JWT Generator api\\Project\\Project\\Project\\ProjectContext-63008319-b37d-43c9-ad1e-11cb93d949aa.db",
+              "RelativeDocumentMoniker": "Project\\ProjectContext-63008319-b37d-43c9-ad1e-11cb93d949aa.db",
+              "ToolTip": "C:\\Users\\Stanislav\\Desktop\\csharp JWT Generator api\\Project\\Project\\Project\\ProjectContext-63008319-b37d-43c9-ad1e-11cb93d949aa.db",
+              "RelativeToolTip": "Project\\ProjectContext-63008319-b37d-43c9-ad1e-11cb93d949aa.db",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAD/DwAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJRSURBVDhPXVNLbxJRFP5meEYogi3SpDMt1GAixNQiNjFpt67tpurCx0/ohj9hiH/BFf/BBHbogpUWbEyrRVJJK4\u002BSmGEqAjPjuffOlCkfOdx7zz3n3O88RoKNUqm0JMtyeDQa2RoBfrJ1wWAQ/X6/VygUdK4wzao7wPt4PP7mRigEy7RgWSYJQDuYholur4twOIzO7\u002B47Tfvzdn9/v8P8PNybsLu7\u002B/QBIZPNQlEUKKoCVVGhqipWlBUMNQ131tcRCPhzmq6bO9vbtXK5PJFtf2Jjv8hfJ7FXk\u002B3ZBaFSqaBerwf04TDn8/nCTHcVQBgJw6kxha7rlLrInWqD/KMtvHz1Gs\u002Bev4AxNTD2enn6cwwsTCYTHH//gU\u002B1Gr4cHuKk2XTiEhhFVhVaL4XmGgNm1263YUoSEollrCZTOO30MBgMbBu\u002BwDDYRkRwMRBBqh\u002BrsIhibCGEo8YB4hSo3qjPvAkm/Ry4AkzJCMjn84jGorigVzcf5qFR9fuXU3yo1tC7sJlwBgJzKVhIEu3zszNM6JGfp79w\u002BO0Ia7kdLN7dwMFxk9uwGXEwlwKozwFkMxks3oxg\u002BVYMydU1iGmTEFmIMJK8tQ5cDEQXWBQWJJlK4XYigfvpJHpHnzE\u002BP0FaXeb3bEaoyxwuBoa4tM8O4sTiyfYWHm/cQzSywHWmRbYQEWYBSJi7LEuQqY2SIzREbJAc4bazEsBrr1RZE43GV7RaLZEjY0NCbGlPjeNnYDz\u002Bx4yFE\u002BHqaywWi0sej4fPt/sTdiB04m/s9//dTKf7e3t7xn9QdzjQIKdOIgAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-10-23T17:57:06.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Stanislav\\Desktop\\csharp JWT Generator api\\Project\\Project\\Project\\appsettings.json",
+              "RelativeDocumentMoniker": "Project\\appsettings.json",
+              "ToolTip": "C:\\Users\\Stanislav\\Desktop\\csharp JWT Generator api\\Project\\Project\\Project\\appsettings.json",
+              "RelativeToolTip": "Project\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-23T17:57:36.67Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1048,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
